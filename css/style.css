@@ -1,0 +1,58 @@
+.navigation .breadcrum{
+	float:left; 
+	margin: 7px 10px;
+}
+body{
+}
+
+.logoJason{
+	background: url(../img/logoM.png) center;
+	background-size: cover;
+	height: 80px;
+	width: 500px;
+}
+.avatar4 {
+	background: rgb(0,37,74);
+	background-size: cover;
+}
+.fontlogo {
+	font-family: "Blackadder ITC",sans-serif;
+	font-size: 45px;
+}
+
+.avatar4 {
+	background: rgb(0,37,74);
+	background-size: cover;
+}
+.padlock {
+	background: url(../img/centre.jpeg) ;
+	background-size: cover;
+	width: 355px;
+	height: 140px;
+}
+
+
+	.padlock {
+		background: url(../img/centre.jpeg) center;
+		background-size: cover;
+		width: 500px;
+		height: 350px;
+	}
+
+
+	.mini {
+		height: 100px;
+		width: 100px;
+	}
+.avatar {
+	background: url(../img/ad.png) center;
+	background-size: cover;
+}
+.avatar2 {
+	background: url(../img/documents.png) center;
+	background-size: cover;
+}
+.avatar3 {
+	background: url(../img/drive.png) center;
+	background-size: cover;
+}
